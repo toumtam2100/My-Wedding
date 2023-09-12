@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Wedding_Project2:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4f24ff1-ddba-4ed2-baf2-720118003374" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wedding_project2/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/wedding_project2/Servlet1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/control/admin/service/LoadProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/control/admin/service/LoadProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dao/guest/LoginDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dao/guest/LoginDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/function/login/google/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/login/google/common/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/function/login/google/servlet/LoginGoogleServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/function/login/google/servlet/LoginGoogleServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/active.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/active.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/adminManageContents.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/adminManageContents.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/adminManageCustomer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/adminManageCustomer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/adminManageServices.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/adminManageServices.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/minh_services.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/minh_services.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/view/navbar.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/view/navbar.jsp" afterDir="false" />
+    </list>
+    <list id="e5366cde-5784-4e61-9d2f-69d726c94f3c" name="Changes by dai tuong cuong quoc" comment="" />
+    <list id="e1bf15f5-1462-4531-9502-d4e1c48c0c4e" name="Changes by Hoàng tử Dubai" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/adminManageContents.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/adminManageContents.jsp" afterDir="false" />
+    </list>
+    <list id="e2666859-bee6-4259-a98a-206f976686ad" name="Changes by Tam" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/about.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/about.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/home.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/main/webapp/adminManageContents.jsp">
+      <ranges>
+        <range start1="36" end1="36" start2="36" end2="38" changelist="c4f24ff1-ddba-4ed2-baf2-720118003374" />
+        <range start1="37" end1="37" start2="39" end2="110" changelist="e1bf15f5-1462-4531-9502-d4e1c48c0c4e" />
+        <range start1="47" end1="48" start2="120" end2="121" changelist="c4f24ff1-ddba-4ed2-baf2-720118003374" />
+        <range start1="56" end1="56" start2="129" end2="132" changelist="e1bf15f5-1462-4531-9502-d4e1c48c0c4e" />
+        <range start1="185" end1="185" start2="261" end2="279" changelist="e1bf15f5-1462-4531-9502-d4e1c48c0c4e" />
+      </ranges>
+    </file>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HAQkjYHg4SqPdU1Otb38RRfnCp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Tai lieu/WorkShop1_Intel/WorkShop2&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Subversion.SSH&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver.localdb&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Tai lieu\Nam 3\SWP\Wedding_Project2\src\main\webapp" />
+      <recent name="D:\Tai lieu\Nam 3\SWP\Wedding_Project2\src\main\webapp\minh" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="control.admin.service" />
+      <recent name="dao.admin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.831">
+    <configuration name="AccountDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dao.admin.AccountDAO" />
+      <module name="Wedding_Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dao.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContentDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dao.admin.ContentDAO" />
+      <module name="Wedding_Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dao.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBContext" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="context.DBContext" />
+      <module name="Wedding_Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="context.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForgotPasswordServlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control.ForgotPasswordServlet" />
+      <module name="Wedding_Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dao.guest.LoginDAO" />
+      <module name="Wedding_Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dao.guest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.831" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.831" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="17" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Wedding_Project2:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="c4507b18-197c-46bd-a513-c33cafd8524d" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54961" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Wedding_Project2:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AccountDAO" />
+      <item itemvalue="Application.ContentDAO" />
+      <item itemvalue="Application.DBContext" />
+      <item itemvalue="Application.ForgotPasswordServlet" />
+      <item itemvalue="Application.LoginDAO" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.831" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DBContext" />
+        <item itemvalue="Application.ContentDAO" />
+        <item itemvalue="Application.AccountDAO" />
+        <item itemvalue="Application.LoginDAO" />
+        <item itemvalue="Application.ForgotPasswordServlet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\FPTSHOP\AppData\Roaming\Subversion</configuration>
+    <option name="sshConnectionType" value="PRIVATE_KEY" />
+    <option name="sshPrivateKeyPath" value="C:\Users\FPTSHOP\.ssh\id_rsa" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4f24ff1-ddba-4ed2-baf2-720118003374" name="Changes" comment="" />
+      <created>1667681726147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667681726147</updated>
+      <workItem from="1667681727600" duration="899000" />
+      <workItem from="1667725555175" duration="3939000" />
+      <workItem from="1667729550100" duration="31000" />
+      <workItem from="1667729597748" duration="452000" />
+      <workItem from="1667730096847" duration="175000" />
+      <workItem from="1667730294605" duration="1482000" />
+      <workItem from="1667731809455" duration="16268000" />
+      <workItem from="1667749194479" duration="1828000" />
+      <workItem from="1667757551580" duration="3491000" />
+      <workItem from="1667800028864" duration="16009000" />
+      <workItem from="1667823306912" duration="789000" />
+      <workItem from="1667852027761" duration="8549000" />
+      <workItem from="1667864727491" duration="4157000" />
+      <workItem from="1667886586399" duration="8494000" />
+      <workItem from="1667895365266" duration="1843000" />
+      <workItem from="1667897244628" duration="3966000" />
+      <workItem from="1667912821025" duration="13686000" />
+      <workItem from="1667972286385" duration="12038000" />
+      <workItem from="1667996498438" duration="26748000" />
+      <workItem from="1668027293143" duration="1813000" />
+      <workItem from="1668059461124" duration="1557000" />
+      <workItem from="1668061650113" duration="2102000" />
+      <workItem from="1668259317971" duration="661000" />
+      <workItem from="1668282673348" duration="63000" />
+      <workItem from="1668587901955" duration="522000" />
+      <workItem from="1669277360255" duration="18000" />
+      <workItem from="1670903629891" duration="214000" />
+      <workItem from="1670986836279" duration="2611000" />
+      <workItem from="1671099983801" duration="1553000" />
+      <workItem from="1671119623224" duration="623000" />
+      <workItem from="1671250481757" duration="155000" />
+      <workItem from="1678344235226" duration="927000" />
+      <workItem from="1678385600678" duration="2920000" />
+      <workItem from="1678555355269" duration="296000" />
+      <workItem from="1678583652874" duration="1114000" />
+      <workItem from="1678637516844" duration="708000" />
+      <workItem from="1678684481197" duration="1075000" />
+      <workItem from="1678948514062" duration="2488000" />
+      <workItem from="1678972352357" duration="4208000" />
+      <workItem from="1679338324044" duration="23000" />
+      <workItem from="1679664812073" duration="623000" />
+      <workItem from="1681193455012" duration="142000" />
+      <workItem from="1685288069561" duration="29000" />
+      <workItem from="1685293346548" duration="24000" />
+      <workItem from="1685801355898" duration="634000" />
+      <workItem from="1685951749034" duration="529000" />
+      <workItem from="1685955576294" duration="275000" />
+      <workItem from="1685974553961" duration="815000" />
+      <workItem from="1685975553896" duration="33000" />
+      <workItem from="1685976034608" duration="2794000" />
+      <workItem from="1686030254600" duration="7370000" />
+      <workItem from="1686054534013" duration="28000" />
+      <workItem from="1686118617240" duration="2134000" />
+      <workItem from="1692935092159" duration="65000" />
+      <workItem from="1692935218947" duration="3184000" />
+      <workItem from="1692960323345" duration="1916000" />
+      <workItem from="1693115199188" duration="664000" />
+      <workItem from="1693219097527" duration="2402000" />
+      <workItem from="1693227018676" duration="1250000" />
+      <workItem from="1693235579323" duration="3102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
